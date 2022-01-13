@@ -85,6 +85,9 @@ img {
 .time p {
   color: hsl(215, 51%, 70%);
 }
+.line {
+  opacity: 0.2;
+}
 .creator {
   display: flex;
 }
